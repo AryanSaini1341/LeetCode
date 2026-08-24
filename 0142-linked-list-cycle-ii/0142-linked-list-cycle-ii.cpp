@@ -1,19 +1,25 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_set<ListNode*> visited;
-
         ListNode* s = head;
-
-        while (s != NULL) {
-            if (visited.find(s) != visited.end()) {
-                return s;   // cycle starts here
-            }
-
-            visited.insert(s);
+        ListNode* f = head;
+        bool cycle = false;
+        while(f!=NULL && f->next!=NULL){
             s = s->next;
+            f = f->next->next;
+            if(s==f){
+                cycle = true;
+                 break;
+            }
         }
-
-        return NULL; // no cycle
+        if(cycle == true){
+            ListNode* temp = head;
+            while(temp!=s){
+                s = s->next;
+                temp = temp->next;
+            }
+            return temp;
+        }
+        else return NULL;
     }
 };
