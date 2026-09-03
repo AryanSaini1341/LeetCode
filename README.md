@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AryanSaini1341/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSaini1341/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -51,9 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AryanSaini1341/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AryanSaini1341/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
