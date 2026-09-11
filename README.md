@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AryanSaini1341/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSaini1341/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanSaini1341/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
