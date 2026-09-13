@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AryanSaini1341/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSaini1341/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AryanSaini1341/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanSaini1341/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanSaini1341/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AryanSaini1341/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
