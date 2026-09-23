@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
+| [1486-xor-operation-in-an-array](https://github.com/AryanSaini1341/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AryanSaini1341/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AryanSaini1341/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanSaini1341/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AryanSaini1341/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
 | ------- |
