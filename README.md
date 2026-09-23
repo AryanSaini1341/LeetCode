@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [1672-richest-customer-wealth](https://github.com/AryanSaini1341/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AryanSaini1341/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AryanSaini1341/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AryanSaini1341/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/AryanSaini1341/LeetCode/tree/master/2974-minimum-number-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AryanSaini1341/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanSaini1341/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanSaini1341/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AryanSaini1341/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AryanSaini1341/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AryanSaini1341/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
