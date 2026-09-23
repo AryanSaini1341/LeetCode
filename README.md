@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AryanSaini1341/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AryanSaini1341/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanSaini1341/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/AryanSaini1341/LeetCode/tree/master/3024-type-of-triangle) |
