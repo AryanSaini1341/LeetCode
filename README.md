@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
 | [2652-sum-multiples](https://github.com/AryanSaini1341/LeetCode/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AryanSaini1341/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/AryanSaini1341/LeetCode/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AryanSaini1341/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryanSaini1341/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
