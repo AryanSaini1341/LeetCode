@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanSaini1341/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0682-baseball-game](https://github.com/AryanSaini1341/LeetCode/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSaini1341/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/AryanSaini1341/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/AryanSaini1341/LeetCode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AryanSaini1341/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/AryanSaini1341/LeetCode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/AryanSaini1341/LeetCode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
