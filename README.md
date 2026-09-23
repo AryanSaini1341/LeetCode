@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AryanSaini1341/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AryanSaini1341/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AryanSaini1341/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3019-number-of-changing-keys](https://github.com/AryanSaini1341/LeetCode/tree/master/3019-number-of-changing-keys) |
 ## Sliding Window
 |  |
 | ------- |
