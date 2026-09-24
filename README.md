@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanSaini1341/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryanSaini1341/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/AryanSaini1341/LeetCode/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AryanSaini1341/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AryanSaini1341/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanSaini1341/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanSaini1341/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0817-linked-list-components](https://github.com/AryanSaini1341/LeetCode/tree/master/0817-linked-list-components) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AryanSaini1341/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AryanSaini1341/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/AryanSaini1341/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/AryanSaini1341/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AryanSaini1341/LeetCode/tree/master/3024-type-of-triangle) |
@@ -196,9 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanSaini1341/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/AryanSaini1341/LeetCode/tree/master/2974-minimum-number-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryanSaini1341/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
