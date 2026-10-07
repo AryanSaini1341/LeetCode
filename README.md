@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AryanSaini1341/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/AryanSaini1341/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AryanSaini1341/LeetCode/tree/master/0326-power-of-three) |
+| [0728-self-dividing-numbers](https://github.com/AryanSaini1341/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanSaini1341/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AryanSaini1341/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AryanSaini1341/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
